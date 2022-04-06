@@ -40,3 +40,18 @@ Cocinar pizza.
 4. crear la variable resultado y asignarle la operacion producto de las variales anteriores
 5. mostrar la variable resultado
 6. fin
+
+
+#CALCULAR EL PROMEDIO DE 4 CONSTANTES O CALIFICACIONES
+1. inicio
+2. declaro 4 valores o calificaciones, promedio
+3. asignar cada valor a una variable var_1, var_2, var_3 var_4
+4. crear la variable promedio = (sumatoria de var_n)/n
+5. mostrar promedio
+6. fin
+
+
+
+
+
+
