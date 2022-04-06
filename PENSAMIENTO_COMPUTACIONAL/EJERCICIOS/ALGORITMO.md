@@ -26,19 +26,17 @@ Cocinar pizza.
 
 #CONVERTIR METROS A YARDAS
 1. inicio
-2. declaro la cantidad de metros, 1.09, valor en yardas
+2. declaro la cantidad de metros, valor en yardas
 3. asignar la cantidad de metros a la variable metros
-4. asignar la constnate 1.09 a la variable multiplo
-5. crear la variable resultado y asignarle la operacion de multiplicacion de las variables anteriores
-6. mostrar la variable resultado
-7. fin
+4. crear la variable resultado y asignarle la operacion de multiplicacion de las variables anteriores
+5. mostrar la variable resultado
+6. fin
 
 
 #NUMERO MULTIPLICARLO POR 9
 1. inicio
-2. declaro el número deseado, el numero 9, resultado 
+2. declaro el número deseado, resultado 
 3. asignar el numero deseado a la variable factor
-4. asignar la constante 9 a la variable multiplo
-5. crear la variable resultado y asignarle la operacion producto de las variales anteriores
-6. mostrar la variable resultado
-7. fin
+4. crear la variable resultado y asignarle la operacion producto de las variales anteriores
+5. mostrar la variable resultado
+6. fin
