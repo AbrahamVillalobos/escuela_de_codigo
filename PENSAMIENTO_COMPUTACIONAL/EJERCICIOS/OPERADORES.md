@@ -1,6 +1,7 @@
 ## OPERADORES ARITMETICOS
 Reto. Describe el proceso en que se computa las siguientes fórmulas.
-PRUEBA
+
+prueba 2
 
 X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 
