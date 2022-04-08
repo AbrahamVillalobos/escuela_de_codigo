@@ -8,7 +8,9 @@ Lenguajes de alto nivel:
 * Perl.
 * PHP.
 * Python
-https://www.google.com/url?sa=i&url=http%3A%2F%2Fmonsevinalaysuarez.blogspot.com%2F2018%2F12%2F3-programacion-utilizando-un-lenguaje.html&psig=AOvVaw30Im27Bu6ij2pDIZ3-Z9-7&ust=1649525848382000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCMifguWAhfcCFQAAAAAdAAAAABAD
+
+![image](https://user-images.githubusercontent.com/103066775/162493500-08411f61-a4e4-4dad-9b37-b2a6ba6a28da.png)
+
 
 ## LENGUAJE 1
 
