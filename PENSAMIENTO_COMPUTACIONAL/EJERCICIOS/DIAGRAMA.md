@@ -6,5 +6,8 @@
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
-4. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
+
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/103066775/163031738-cee7ebbd-fbbe-4223-a9d7-48877734ed83.png)
+
+5. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
