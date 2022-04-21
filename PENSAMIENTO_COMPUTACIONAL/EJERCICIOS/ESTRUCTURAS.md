@@ -53,5 +53,30 @@
 
 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+1. inicio
+2. declaro var
+3. mostrar "ingresa un numero para determinar el mes al que corresponde"
+4. asignar a var
+5. caso var
+1 <- enero
+2 <- febrero
+3 <- marzo
+4 <- abril
+5 <- mayo
+6 <- junio
+7 <- julio
+8 <- agosto
+9 <- septiembre
+10 <- octubre
+11 <- noviembre
+12 <- diciembre
+sino mostrar "error"
+6. fin caso
+7. fin
+
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/103066775/164532370-dd697f7f-1be4-4a98-86d8-6642f980719c.png)
+
+
+
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
