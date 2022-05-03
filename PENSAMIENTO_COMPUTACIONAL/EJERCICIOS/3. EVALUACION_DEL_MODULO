@@ -23,4 +23,22 @@ y el mensaje REPROBADO en caso contrario, considere además el siguiente requisi
 Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
 Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener la edad promedio de un grupo de N alumnos.
 
-
+  alt<-0
+	prom<-0
+	per<-0
+	sum<-0
+	i<-1
+	Escribir "¿De cuantas personas quieres calcular la estatura promedio?"
+	Leer per
+		Mientras i<=per Hacer
+		Escribir "Ingresa la altura en metros de la persona ",i, ". Ejemplo: 1.60"
+		leer alt
+		Si alt>=1.20 Y alt<=2.10 Entonces
+						sum<-sum+alt
+						prom<-sum/per
+						i=i+1
+		SiNo
+			Escribir "Valor Inválido"
+		Fin Si
+	Fin Mientras
+	Escribir "El promedio de las ", per, " personas es de: ",prom
